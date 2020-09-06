@@ -118,6 +118,11 @@ header {
     height: 0;
     position: absolute;
 }
+.nav--visible {
+    visibility: visible;
+    height: auto;
+    position: relative;
+}
 .logo {
     height: 30px;
 }
